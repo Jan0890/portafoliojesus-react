@@ -7,7 +7,7 @@
 ## 🛠️ Stack Tecnológico
 Este sitio fue construido utilizando tecnologías modernas para garantizar rendimiento, SEO y una excelente experiencia de usuario:
 
-* **Frontend:** [React.js / Next.js / HTML5 / CSS3] 
+* **Frontend:** [React.js / Next.js / HTML5 / CSS3/Typescript] 
 * **Estilos:** [Tailwind CSS / Styled Components]
 * **Despliegue:** Vercel
 * **Seguridad:** Configuración de cabeceras de seguridad optimizadas (HSTS activo).
