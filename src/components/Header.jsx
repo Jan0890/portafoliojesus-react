@@ -17,15 +17,16 @@ export default function Header() {
 
             {/* Descripción principal */}
             <h1 className="text-3xl sm:text-6xl lg:text-[66px]">
-                Desarrollador web con sede en España.
+                Desarrollador Full Stack Junior.
             </h1>
 
             {/* Información adicional */}
             <p className="max-w-2xl mx-auto text-[#1f2937]/80 dark:text-gray-300">
-            Soy desarrollador web junior en formación, con experiencia práctica en proyectos
-            personales enfocados en diseño responsive, lógica en JavaScript y despliegue en producción.
-            Tengo interés en la seguridad de aplicaciones web (OWASP Top 10) y en escribir código limpio
-            y seguro. Vengo de un background en gestión de proyectos, lo que me aporta organización y compromiso.
+            Frontend / Full Stack Developer Junior con experiencia en desarrollo de aplicaciones web modernas, plataformas SaaS e integración de inteligencia artificial.
+            He trabajado en proyectos utilizando React, TypeScript, Node.js y Python, incluyendo el desarrollo de una plataforma SaaS de traducción automática de videos basada en 
+            procesamiento multimedia, arquitecturas escalables e integración de modelos de IA para transcripción, traducción y generación de voz.
+            Cuento además con experiencia en testing automatizado con Selenium, automatización de procesos y aplicación de buenas prácticas de seguridad basadas en OWASP Top 10.
+            Motivado por construir soluciones tecnológicas modernas, escalables y enfocadas en experiencia de usuario, automatización e innovación digital.
             </p>
 
             {/* Botones */}
