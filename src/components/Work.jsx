@@ -4,6 +4,12 @@ import { ExternalLink } from "lucide-react";
 export default function Work() {
 
   const work = [
+  {
+      name: 'TRASLAITE - TRADUCTOR IA',
+      icon: './assets/traslaite.jpeg',
+      description: 'traductor',
+      demo: 'www.traslaite.vercel.app',
+    },
     {
       name: 'DHO Construcciones',
       icon: './assets/web1.png',
