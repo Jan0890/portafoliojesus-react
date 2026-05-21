@@ -74,9 +74,12 @@ export default function About() {
           <p className="mb-10 max-w-2xl text-[#1f2937]/80 dark:text-gray-300">
             Soy{" "}
             <span className="text-[#2563eb] font-semibold">Jancarlos Jesus Arroyo V.</span>,
-            Desarrollador de páginas web de Perú residiendo en Madrid. Inicié en el mundo de la
-            programación a finales de 2024, creando proyectos con JavaScript,
-            React y Node.js.</p>
+            Frontend / Full Stack Developer Junior de Perú, actualmente residiendo en Madrid, España. nicié mi camino en el desarrollo de software a finales de 2024, 
+            construyendo proyectos con JavaScript, React, TypeScript y Node.js, enfocados en aplicaciones web modernas, automatización y plataformas SaaS.
+            Actualmente desarrollo proyectos orientados a inteligencia artificial, procesamiento multimedia y arquitecturas escalables, incluyendo “Traductor A&V AI”, 
+            una plataforma SaaS de traducción automática de videos que integra tecnologías como React, FFmpeg y modelos de IA para transcripción, traducción y generación de voz.
+            Además, he trabajado en testing automatizado con Selenium, automatización con Python y aplicación de buenas prácticas de seguridad basadas en OWASP Top 10.
+            Me apasiona construir soluciones modernas, funcionales y enfocadas en experiencia de usuario, mientras continúo creciendo en el ecosistema del desarrollo web y tecnologías cloud.</p>
            
 
           {/* Secciones de información */}
