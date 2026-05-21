@@ -8,7 +8,7 @@ export default function Work() {
       name: 'TRASLAITE - TRADUCTOR IA',
       icon: './assets/traslaite.jpeg',
       description: 'traductor',
-      demo: 'www.traslaite.vercel.app',
+      demo: 'https://traslaite.vercel.app/',
     },
     {
       name: 'DHO Construcciones',
